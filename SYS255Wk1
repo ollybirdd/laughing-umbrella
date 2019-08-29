@@ -1,0 +1,12 @@
+Tech Journal 8/29
+This week: configuring windows 10 and OPNsense to allow for connections between LAN and WAN
+
+The first portion of this lab was within OPNsense; while somewhat unfamiliar, the console is really simple.
+Use 1 and 2 to assign interfaces and IP addresses, while 8 will get you the shell and 7 will allow you to ping. 
+My biggest issue was with "cabling" within the vSphere- remember to check all of the network adapters for the proper
+connections.
+
+To Research:
+Default gateways
+Windows powershell commands
+vSphere settings
